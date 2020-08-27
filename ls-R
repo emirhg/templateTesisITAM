@@ -1,0 +1,21 @@
+% ls-R -- filename database for kpathsea; do not change this line.
+./:
+.:
+Chapters
+derechos.tex
+Figures
+LICENSE
+ls-R
+macros.sty
+main.tex
+portada.tex
+README.md
+references.bib
+tesisITAM.cls
+
+./Chapters:
+introduction.tex
+
+./Figures:
+LOGO_ITAM.jpg
+
